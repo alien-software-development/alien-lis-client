@@ -1,0 +1,19 @@
+﻿================================================================================
+         ALIEN LIS MIDDLEWARE PRO - SYSTEM & PREREQUISITE HEALTH REPORT         
+         Software: Alien LIS Middleware Pro (Universal Laboratory Middleware)   
+         Developer: Alien Software Development (https://aliensoftwaredevelopment.com)
+         Date: 2026-10-30 20:51:34
+================================================================================
+
+[PASS]   | System             | Operating System & Architecture | Microsoft Windows NT 6.2.9200.0 [64-bit (x64)], Process Mode: x64, Host: DESKTOP-UVBRQNM
+[PASS]   | .NET Runtime       | Microsoft .NET Framework       | Installed: .NET Framework 4.8.1+ (Release 533325), Active CLR: 4.0.30319.42000 - Fully Compatible
+[PASS]   | Database Engine    | SQLite Interoperability Engine | SQLite Core v3.46.1 loaded successfully. 32-bit & 64-bit unmanaged interop verified.
+[PASS]   | Database Storage   | Local SQLite Database File     | Verified read/write access to D:\LAB_LIS\Data\KT44_Database.db
+[PASS]   | Enterprise Drivers | Managed Database Providers     | Oracle Managed Driver & MySQL Pure Managed Providers bundled. Zero external client installs required.
+[PASS]   | Connectivity       | HL7 MLLP TCP Port 5100         | Port 5100 is OPEN and available for Analyzer HL7 TCP/IP listener.
+[PASS]   | Connectivity       | RS-232 Serial Port Subsystem   | Serial COM drivers functional. Detected ports: None currently attached (subsystem ready)
+[PASS]   | Portability        | 100% Offline Standalone Package | All binaries, managed drivers, interop DLLs, and reporting engines are present locally. NO internet required.
+
+================================================================================
+OVERALL STATUS: SUCCESS - ALL PREREQUISITES VERIFIED FOR OFFLINE DEPLOYMENT
+================================================================================
